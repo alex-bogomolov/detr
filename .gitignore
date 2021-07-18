@@ -15,3 +15,8 @@ experiment-*
 .mypy_cache/*
 not_tracked_dir/
 .vscode
+dataset
+.venv
+.idea
+upgrade
+train_image_level.csv
